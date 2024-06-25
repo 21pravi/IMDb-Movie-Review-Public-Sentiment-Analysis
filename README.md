@@ -1,0 +1,3 @@
+# IMDb-Movie-Review-Public-Sentiment-Analysis
+
+To build a sentiment analysis model for IMDb movie reviews, I classified reviews based on user ratings: above 5 as positive, 5 or below as negative, and 5 as neutral. I implemented various models including Logistic Regression, Random Forest, Artificial Neural Networks (ANN), Long Short-Term Memory (LSTM), and Graph Convolutional Networks (GCN). Preprocessing steps involve tokenization, lowercasing, removing stop words, and stemming/lemmatization, while feature extraction utilizes Bag of Words, TF-IDF, or word embeddings. Models are evaluated using metrics like accuracy, precision, recall, and F1-score, with hyperparameter tuning and cross-validation employed to select the best-performing model.
